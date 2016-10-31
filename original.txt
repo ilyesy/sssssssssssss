@@ -1,1 +1,2 @@
-branchB
+original
+this is beanchB, i modified this
