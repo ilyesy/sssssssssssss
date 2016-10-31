@@ -1,2 +1,3 @@
 original
-this is beanchB, i modified this
+this is beanchB, i modified this.
+modified again but not pushed from bB
